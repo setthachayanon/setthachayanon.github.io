@@ -1,6 +1,7 @@
 # Dependencies
 markdown:         redcarpet
 pygments:         true
+baseurl:          /setthachayanon.github.io
 
 # Permalinks
 permalink:        pretty
