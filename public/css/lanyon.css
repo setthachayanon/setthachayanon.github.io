@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "futura-pt", Helvetica, Arial, sans-serif;
   font-weight: 700;
   color: #303030;
-  letter-spacing: -.0313rem;
+  letter-spacing: -.0625rem;
 
   text-rendering: optimizeLegibility;
   -webkit-font-feature-settings: "kern";
@@ -373,7 +373,7 @@ a.sidebar-nav-item:focus {
   font-family: "futura-pt", Helvetica, Arial, sans-serif;
   font-weight: 700;
   color: #ccc;
-  letter-spacing: -.0313rem;
+  letter-spacing: -.0625rem;
 }
 
 /* Related posts */
