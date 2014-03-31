@@ -10,3 +10,7 @@ title:            Nick Setthachayanon
 tagline:          ''
 description:      'A work in progress.'
 paginate:         1
+
+# Google Analytics
+ga_domain: setthachayanon.github.io
+ga_tracking_id: UA-2692895-10
