@@ -85,6 +85,10 @@ p a:hover, p:focus {
   border-color: #fc6;
 }
 
+img {
+	max-width: 100%;
+	height: auto;
+}
 
 /*
  * Wrapper
